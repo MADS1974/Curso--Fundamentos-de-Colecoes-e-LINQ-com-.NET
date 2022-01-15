@@ -1,0 +1,16 @@
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\bin\Debug\net5.0\Colecoes.exe
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\bin\Debug\net5.0\Colecoes.deps.json
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\bin\Debug\net5.0\Colecoes.dll
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\bin\Debug\net5.0\Colecoes.pdb
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfoInputs.cache
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfo.cs
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\obj\Debug\net5.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\obj\Debug\net5.0\Colecoes.dll
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\obj\Debug\net5.0\Colecoes.pdb
+C:\PROJETOS\Curso Fundamentos de Coleções e LINQ com .NET\Curso--Fundamentos-de-Coleções-e-LINQ-com-DotNET\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache
